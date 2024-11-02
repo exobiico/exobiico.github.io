@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exobiico.github.io/Frl/sitemap_index.txt
+Sitemap: https://exobiico.github.io/QMs/sitemap_index.txt
+Sitemap: https://exobiico.github.io/Ugf/sitemap_index.txt
+Sitemap: https://exobiico.github.io/UhT/sitemap_index.txt
